@@ -35,7 +35,7 @@ body {
   }
   
   .card p {
-    font-size: 17px;
+    font-size: 18px;
     font-weight: 300;
     margin:0;
   }
@@ -46,8 +46,8 @@ body {
   }
   
   .card-3 h3 {
-    background-color: #e8d6d6;
-    box-shadow: 2px 5px #eceaea;
+    background-color: #e0d6d6;
+    box-shadow: 2px 5px #eae6e6;
     padding: 10px;
   }
   
